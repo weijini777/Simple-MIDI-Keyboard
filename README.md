@@ -10,3 +10,6 @@ Click the instrument button to show the instrument options, which are limited to
 
 ## Saving a Recording
 To save a recording, type the name of the file into the text field in the top left of the window, and click save. This will save the MIDI sequence as a MIDI file with the extension .mid. This file can then be used in other applications with more advanced synthesis abilities, without needing their heavier weight in the composition/sketching phase.
+
+## Project by Jeff Wang and Theo Hoyer, Link to original Repo
+https://github.com/mac-comp128-f22-alhashim/project-theo-jeff-project.git
