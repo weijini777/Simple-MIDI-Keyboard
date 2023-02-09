@@ -11,5 +11,5 @@ Click the instrument button to show the instrument options, which are limited to
 ## Saving a Recording
 To save a recording, type the name of the file into the text field in the top left of the window, and click save. This will save the MIDI sequence as a MIDI file with the extension .mid. This file can then be used in other applications with more advanced synthesis abilities, without needing their heavier weight in the composition/sketching phase.
 
-## This repository was private so it is a cloned version, here is a picture of the original repository
- ![Alt text](simple keyboard github pic.jpg?raw=true "Title")
+## This is a cloned version of the original repo
+ ![Original Repo](/simple keyboard github pic.jpg?raw=true "Title")
